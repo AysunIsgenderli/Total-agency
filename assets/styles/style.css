@@ -173,7 +173,6 @@ header .container .bars {
 }
 .carousel-items .carousel-item img {
   width: 100%;
-  height: 400px;
   object-fit: cover;
   display: block;
 }
@@ -549,7 +548,8 @@ header .container .bars {
   .portfolio .container .cards .column {
     width: 100%;
   }
-  .portfolio .container .cards .card-1 img, .portfolio .container .cards .card-5 img {
+  .portfolio .container .cards .card-1 img,
+.portfolio .container .cards .card-5 img {
     height: 380px;
   }
   .portfolio .container .cards .overlay {
